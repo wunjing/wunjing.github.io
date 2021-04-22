@@ -49,7 +49,7 @@ export default class Introduction extends Component {
                                  <div className="slider-text-inner">
                                                 <div className="desc">
                                                     <h1>Web Development Projects!!</h1>
-                                                    <p><a className="btn btn-primary btn-learn" href="#project" target="_blank" rel="noopener noreferrer">View Projects <i className="icon-briefcase3" /></a></p>
+                                                    {/* <p><a className="btn btn-primary btn-learn" href="#project" target="_blank" rel="noopener noreferrer">View Projects <i className="icon-briefcase3" /></a></p> */}
                                                     <br></br> 
                                                 </div> 
                                                 <br></br> 
